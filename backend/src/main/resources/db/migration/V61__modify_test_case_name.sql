@@ -1,1 +1,0 @@
-ALTER TABLE test_case MODIFY COLUMN name varchar(255) NOT NULL COMMENT 'Test case name';

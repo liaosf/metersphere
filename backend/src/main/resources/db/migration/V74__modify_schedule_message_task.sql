@@ -1,4 +1,0 @@
-ALTER TABLE schedule
-    MODIFY COLUMN id VARCHAR (255);
-ALTER TABLE message_task
-    MODIFY COLUMN id VARCHAR (255);

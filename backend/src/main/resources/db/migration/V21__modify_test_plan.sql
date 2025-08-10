@@ -1,1 +1,0 @@
-alter table test_plan drop column project_id;

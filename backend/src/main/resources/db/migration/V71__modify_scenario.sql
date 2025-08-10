@@ -1,1 +1,0 @@
-ALTER TABLE api_scenario MODIFY COLUMN id VARCHAR (120);

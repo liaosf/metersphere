@@ -1,1 +1,0 @@
-update api_scenario set custom_num = num where (custom_num is null or custom_num = '');
